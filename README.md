@@ -17,8 +17,3 @@ Projeto desenvolvido com orientação da [Jakeliny Gracielly](https://github.com
 ### Imagem do projeto
 
 ![Rocket_Q](https://user-images.githubusercontent.com/71888055/125177929-4a31b080-e1b6-11eb-8d44-e92665aded0e.png)
-
-#### ⚠️⚠️ Ao clonar ou baixar o repositório ⚠️⚠️
-
-- Abra o terminal no projeto e escreva o seguinte comando `` npm init -y `` para instalar a pasta node-modules com as dependências instaladas no projeto.
-- Depois basta rodar o comando `` npm start `` para abrir aplicação no seu navegador na porta 3000.
